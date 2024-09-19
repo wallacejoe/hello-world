@@ -6,7 +6,7 @@ This software was created as a basic intro to computer programming, specifically
 
 {Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=iXXEAONKoMw)
 
 # Development Environment
 
