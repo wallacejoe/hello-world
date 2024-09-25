@@ -4,8 +4,6 @@ This is a simple program designed to print simple text to the console. It then a
 
 This software was created as a basic intro to computer programming, specifically with the Python, Visual Studio Code, and GitHub.
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://www.youtube.com/watch?v=iXXEAONKoMw)
 
 # Development Environment
